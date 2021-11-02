@@ -2,7 +2,7 @@
 
 I study Computer Science and Data Science at The Unviversity of British Columbia. 
 
-Please visit [yohenthounaojam.github.io](https://yohenthounoajam.github.io). 
+Please visit [yohenthounaojam.github.io](https://yohenthounaojam.github.io). 
 
 📫 You can reach me at yohent@student.ubc.ca. 
 
