@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋
+
+I study Computer Science and Data Science at The Unviversity of British Columbia. 
+
+Please visit [yohenthounoajam.github.io](yohenthounoajam.github.io). 
+
+📫 You can reach me at yohent@student.ubc.ca. 
 
 <!--
 **yohenthounaojam/yohenthounaojam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
