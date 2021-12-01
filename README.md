@@ -1,6 +1,6 @@
-### 👋 
+## 👋 
+(He/Him)
 
-😄 Pronouns: (He/Him)
 I study Computer Science and Data Science at The Unviversity of British Columbia. 
 
 Please visit [yohenthounaojam.github.io](https://yohenthounaojam.github.io). 
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🌱 Currently reading [The Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow
-- 👯 Looking to collaborate on learning about [Adversarial Robustness](https://adversarial-ml-tutorial.org/introduction/)
+🌱 Currently reading [The Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow
+👯 Looking to collaborate on learning about [Adversarial Robustness](https://adversarial-ml-tutorial.org/introduction/)
 
