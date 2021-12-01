@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 
 🌱 Currently reading [The Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow
+
 👯 Looking to collaborate on learning about [Adversarial Robustness](https://adversarial-ml-tutorial.org/introduction/)
 
