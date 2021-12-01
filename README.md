@@ -3,7 +3,7 @@
 
 I study Computer Science and Data Science at The Unviversity of British Columbia. 
 
-🔭 Please visit [yohenthounaojam.github.io](https://yohenthounaojam.github.io). 
+🔭 Please visit <a href="https://yohenthounaojam.github.io" target="_blank">yohenthounaojam.github.io</a>. 
 
 🌱 Currently reading [The Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow
 
