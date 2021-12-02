@@ -11,6 +11,16 @@ I study Computer Science and Data Science at The Unviversity of British Columbia
 
 📫 You can reach me at yohent@student.ubc.ca. 
 
+
+
+<p align="left">
+<a href="https://github.com/yohenthounaojam">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=yohenthounaojam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohenthounaojam&&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=css" />
+</a>
+</p>
+
+
 <!--
 **yohenthounaojam/yohenthounaojam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,13 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Not showing
 -->
-
-
-
-<p align="left">
-<a href="https://github.com/yohenthounaojam">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=yohenthounaojam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohenthounaojam&&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=css" />
-</a>
-</p>
