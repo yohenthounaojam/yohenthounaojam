@@ -16,7 +16,7 @@ I study Computer Science and Data Science at The Unviversity of British Columbia
 
 <p align="left">
 <a href="https://github.com/yohenthounaojam">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=yohenthounaojam&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=yohenthounaojam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohenthounaojam&&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=css" />
 </a>
 </p>
