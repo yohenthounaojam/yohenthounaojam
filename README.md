@@ -6,9 +6,7 @@ I study Computer Science and Data Science at The Unviversity of British Columbia
 
 🔭 Please visit <a href="https://yohenthounaojam.github.io" target="_blank">yohenthounaojam.github.io</a>. 
 
-🌱 Currently reading [The Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow
-
-👯 Looking to collaborate as I learn about [Adversarial Robustness](https://adversarial-ml-tutorial.org/introduction/)
+🌱 Currently working on [Adversarial Patch Attacks](https://adversarial-ml-tutorial.org/introduction/)
 
 📫 You can reach me at yohent@student.ubc.ca. 
 
